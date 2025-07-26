@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ug-u@j-%_2+5j76_scike29(6qbwq&hlki2+mn#@t5pz+323=m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['yourdomain.com', 'your-cloud-ip', 'localhost']
+ALLOWED_HOSTS = ['scanmark-wvrx.onrender.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
